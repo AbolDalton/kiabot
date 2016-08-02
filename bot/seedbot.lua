@@ -233,15 +233,15 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {239383884,235442093,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Spartacus Bot V2.3 Supergroups
+    about_text = [[Dalad Bot V1 Supergroups
     
     An advanced Bot Based On TG-CLI Written in Lua
     
-    Developer : @IR_Telegram_Developer
-    Channel : https://Telegram.me/SpartaSoft
-    Github : https://github.com/spartacusteam/spartacus/tree/supergroups
+    Developer : AbolDalton
+    Channel : https://Telegram.me/Dalton_news
+    Github : https://github.com
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -596,6 +596,8 @@ Returns group logs
 
 *Only owner can use res, setowner, promote, demote, and log commands
 
+Create by Abol And kia Dalton
+And tnx for Amir
 ]],
   }
   serialize_to_file(config, './data/config.lua')
