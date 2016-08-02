@@ -108,8 +108,8 @@ local function telegram_help()
   end
   text = text..'______________________________'
   text = text..'\n'..'You can use < /helps > for view all items info or can use < /help (name) > for view a item info'
-  text = text..'\n'..'For see about Spartacus Team, send < /ver >'
-  text = text..'\n'..'Our Channel : @SpartaSoft'
+  text = text..'\n'..'For see about Dalad Team, send < /ver >'
+  text = text..'\n'..'Our Channel : @dalton_news'
   return text
 end
 
