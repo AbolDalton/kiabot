@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'Spartacus Bot V2.3 Supergroups\n\nAn advanced Bot Based On TG-CLI Written in Lua\n\nDeveloper : @IR_Telegram_Developer\nChannel : https://Telegram.me/SpartaSoft\nGithub : https://github.com/spartacusteam/spartacus/tree/supergroups'
+  return 'Dalad Bot V1 Supergroups\n\nAn advanced Bot Based On TG-CLI Written in Lua\n\nDeveloper : @AbolDalton\nChannel : https://Telegram.me/dalton_news\nGithub : https://github.com\ntnx for kia Dalton'
 end
 
 return {
